@@ -12,7 +12,7 @@ import com.programming.chrisg.synopticproject.dto.TopicDto;
 import com.programming.chrisg.synopticproject.service.TopicService;
 
 @RestController
-@RequestMapping("/api/topic")
+@RequestMapping("/api/Topic")
 @AllArgsConstructor
 @Slf4j
 public class TopicController {
